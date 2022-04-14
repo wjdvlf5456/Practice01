@@ -12,7 +12,7 @@ public class Ex17 {
 		double radius = sc.nextDouble();
 		
 		double pi = 3.14;
-		double vol = 4/3*pi*radius*radius*radius;
+		double vol = (double)4/3*pi*radius*radius*radius;
 		
 		System.out.println("구의 부피는: "+vol+"입니다.");
 		
