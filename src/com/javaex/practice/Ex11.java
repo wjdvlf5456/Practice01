@@ -13,10 +13,7 @@ public class Ex11 {
 		int saving = salary*12*10;
 		System.out.println("10년동안 최대 저축액은 "+saving+"원 입니다.");
 		
-		
-		
 		sc.close();
-		
 		
 	}
 
