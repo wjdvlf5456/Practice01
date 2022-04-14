@@ -18,8 +18,6 @@ public class Ex03 {
 		//예상: x=3	x앞에 ++이 있었으니 +1을 하면 x=3 
 		System.out.println("y=" + y);
 		//예상: y=2	y뒤에 ++이 붙었으니 1+1은 2 고로 y=2 
-			
-		
 		
 	}
 
