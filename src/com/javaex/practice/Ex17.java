@@ -17,8 +17,6 @@ public class Ex17 {
 		System.out.println("구의 부피는: "+vol+"입니다.");
 		
 		sc.close();
-		
-		
 	}
 
 }
