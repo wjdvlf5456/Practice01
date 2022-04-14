@@ -8,7 +8,6 @@ public class Ex20 {
 		
 		Scanner sc = new Scanner(System.in);
 		
-		
 		System.out.print("500원 개수:  ");
 		int fivehund = sc.nextInt();
 		int val500 = 500*fivehund;
